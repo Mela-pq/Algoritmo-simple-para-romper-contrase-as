@@ -18,3 +18,5 @@ La contraseña es "Pa$5", que consta de cuatro caracteres.
 Reflexión: ¿qué pasa si la contraseña tiene 8+ caracteres y usa mayúsculas, números y símbolos?
 En este caso si la contraseña es "maria34_23" con mas de ocho caracteres combinados,el sistema realizaria varios intentos para ello y y el tiempo de ejecucion seria largo.
 
+La practica permite visualizar y comparar entre una contraseña corta y una contraseña larga de caracteres combinados, permite visualizar el tiempo de sifrado de cada una de ellas y de esta manera se logra diferenciar entre una contraseña segura y una contraseña debil ante diferentes tipos de ataques.
+
